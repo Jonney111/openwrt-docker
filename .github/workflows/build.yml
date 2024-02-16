@@ -9,7 +9,7 @@ on:
 
 env:
   FIRMWARE_URL: "https://github.com/mj22226/openwrt/releases/download/bcm2712-6.1/openwrt-bcm27xx-bcm2712-rpi-5-ext4-factory.img.gz"
-  TAG: 24.0.1
+  TAG: 24.0.10
 
 jobs:
   build:
