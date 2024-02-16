@@ -8,9 +8,8 @@ on:
       - ".github/workflows/build.yml"
 
 env:
-  FIRMWARE_URL: "https://public.bl.files.1drv.com/y4m2GyRvlRlLcyf051Z9UABYY4gdFG6jWNdOC4C9m2CBU5_S0gD02N_gaibmerrVqAoQdhd_L7feiTLKwttdX49Dt_03qWTxZnUz0SMHD9VnF27px-esT3LsPbOGWGZHYN8u0nx1_o0bTSvKzA1VGZ1WoeTLpS9IVLESdL4PpWcM56UkhYQ-cTVXp6dk5RH7-uyV46ZFQ7zgXAvd1sqP4Bo76BrTDSACBWkBbboxlbZisY?AVOverride=1"
-  REPOSITORY: lhy0315cn/onecloud
-  TAG: 23.08.26
+  FIRMWARE_URL: "https://github.com/mj22226/openwrt/releases/download/bcm2712-6.1/openwrt-bcm27xx-bcm2712-rpi-5-ext4-factory.img.gz"
+  TAG: 24.0.1
 
 jobs:
   build:
