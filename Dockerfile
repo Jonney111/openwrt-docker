@@ -1,4 +1,4 @@
-FROM scratch
+FROM arm64v8/alpine:latest
 
 #LABEL maintainer=Crazygit
 #LABEL homepage="https://github.com/crazygit/openwrt-x86-64"
