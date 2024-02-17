@@ -10,7 +10,7 @@ on:
 env:
   FIRMWARE_URL: "https://github.com/mj22226/openwrt/releases/download/rpi-6.6-4045fb89fd1b3d5abeb07c4b06176574c4dd9f0e/openwrt-bcm27xx-bcm2712-rpi-5-ext4-factory.img.gz"
   REPOSITORY: li79430/jonney
-  TAG: 24.0.11
+  TAG: 24.0.12
 
 jobs:
   build:
