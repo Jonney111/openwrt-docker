@@ -1,4 +1,4 @@
-FROM debian:trixie-slim
+FROM arm64v8/ubuntu:latest
 
 #LABEL maintainer=Crazygit
 #LABEL homepage="https://github.com/crazygit/openwrt-x86-64"
